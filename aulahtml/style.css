@@ -1,0 +1,22 @@
+body{
+
+}
+
+ul {
+list-style: none;
+
+
+}
+
+header {
+
+display: flex;
+
+}
+
+.banner {
+display: flex;
+justify-content: center;
+    
+
+}
